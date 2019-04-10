@@ -42,7 +42,7 @@ class Swi:
 
     def run(self):
         # controls
-        draw_face_rectangles = False
+        draw_face_rectangles = True
 
         # loop variables
         frame_nb = 0
